@@ -7,6 +7,6 @@ iwr -useb https://christitus.com/win | iex
 ```
 
 # Windows 11 Home - Lokalen Benutzer erstellen
----cmd
+```cmd
 start ms-cxh:localonly
----
+```
